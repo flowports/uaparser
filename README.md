@@ -2,6 +2,8 @@
 
 A minimalist UserAgent parser for popular agents.
 
+📦 Zero Dependencies
+
 ## What it does
 
 uaparser transforms a [UserAgent string](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent) into a Browser object with its normalized Name, Version and Operating System name. Only popular OS and Browsers are supported.
