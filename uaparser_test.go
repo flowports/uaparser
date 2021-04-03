@@ -3,7 +3,7 @@ package uaparser_test
 import (
 	"testing"
 
-	"github.com/repointhub/uaparser"
+	"github.com/flowports/uaparser"
 )
 
 func TestValidUserAgents(t *testing.T) {
