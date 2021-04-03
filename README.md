@@ -1,4 +1,4 @@
-# github.com/repointhub/uaparser
+# github.com/flowports/uaparser
 
 A minimalist UserAgent parser for popular agents.
 
@@ -15,7 +15,7 @@ uaparser transforms a [UserAgent string](https://developer.mozilla.org/en-US/doc
 
 ```go
 import (
-    "github.com/repointhub/uaparser"
+    "github.com/flowports/uaparser"
 )
 
 func main() {
